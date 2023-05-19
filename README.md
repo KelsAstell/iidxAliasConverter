@@ -1,6 +1,6 @@
 ## 别名库转换器
 
-> 针对maimaiDX [#issue 66](https://github.com/Yuri-YuzuChaN/maimaiDX/issues/66") 制作的一个json转换小工具
+> 针对maimaiDX [#issue 66](https://github.com/Yuri-YuzuChaN/maimaiDX/issues/66) 制作的一个json转换小工具
 
 最近刚换用[Yuri-YuzuChaN/maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX)的maimai机器人模块，因为xray Bot的别名库更为丰富但苦于json结构不同，自己写了个小工具做一下转换。
 
@@ -24,4 +24,4 @@ Q: 会不会有xxx功能
 A: 不会有, 我一个学翻译的造了什么孽要写代码
 
 Q: 我覆盖了all_alias.json后为什么没起作用
-A: 该文件通过接口自动更新, 作者更新前我是直接把更新代码patch掉了, 其实这个工具现在应该也不会用到了, 因为作者已经在[#issue 66](https://github.com/Yuri-YuzuChaN/maimaiDX/issues/66")中表示更新了别名库
+A: 该文件通过接口自动更新, 作者更新前我是直接把更新代码patch掉了, 其实这个工具现在应该也不会用到了, 因为作者已经在[#issue 66](https://github.com/Yuri-YuzuChaN/maimaiDX/issues/66)中表示更新了别名库
